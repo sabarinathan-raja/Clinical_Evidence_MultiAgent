@@ -1,0 +1,30 @@
+
+[
+  {
+    "id": "sample_001",
+    "query": "What evidence exists for the effectiveness of a hypothetical intervention?",
+    "relevant_document_ids": [
+      "doc_001",
+      "doc_002"
+    ],
+    "expected_keywords": [
+      "evidence",
+      "study",
+      "outcome"
+    ],
+    "synthetic": true
+  },
+  {
+    "id": "sample_002",
+    "query": "What are the limitations of clinical research evidence?",
+    "relevant_document_ids": [
+      "doc_003"
+    ],
+    "expected_keywords": [
+      "limitations",
+      "bias",
+      "uncertainty"
+    ],
+    "synthetic": true
+  }
+]

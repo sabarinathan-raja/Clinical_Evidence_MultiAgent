@@ -1,0 +1,3 @@
+SYNTHETIC REVIEW SOP — DEMONSTRATION ONLY
+
+Every generated research brief must display a decision-support disclaimer, preserve citations to retrieved material, avoid patient-specific diagnosis and medication instructions, and request qualified human review for high-stakes questions. Inputs with prompt-injection phrases, identifiable information, or requests for dosing must be flagged for review.

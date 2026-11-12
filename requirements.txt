@@ -1,0 +1,55 @@
+
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+email-validator
+
+# AI and LLM
+google-generativeai
+langchain
+langchain-community
+langchain-google-genai
+langgraph
+transformers
+sentence-transformers
+torch
+
+# RAG and Vector Database
+chromadb
+rank-bm25
+pypdf
+pymupdf
+
+# Database
+sqlalchemy
+psycopg[binary]
+alembic
+
+# Security
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+python-dotenv
+
+# Utilities
+requests
+httpx
+aiofiles
+tenacity
+numpy
+pandas
+
+# Evaluation
+scikit-learn
+pytest
+pytest-asyncio
+pytest-cov
+
+# Development
+python-json-logger
+
+streamlit>=1.40
+requests>=2.32
